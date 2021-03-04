@@ -1,1 +1,9 @@
-{}
+{
+  "name": "spring-mivroservice",
+  "version": "1.0.0",
+  "main": "",
+  "license": "MIT",
+  "dependencies": {
+    
+  }
+}
